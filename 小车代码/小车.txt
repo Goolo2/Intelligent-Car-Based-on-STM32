@@ -1,0 +1,25 @@
+
+l      6   一
+r      7   二
+m1  5   三
+m2  4   四
+
+TIM3 
+ch1 A6
+ch2 A7
+ch3 B0
+ch4 B1
+
+Tim2
+ch1 A0
+ch2 A1
+ch3 B2
+ch4 B3
+
+
+
+
+
+
+
+ 
